@@ -94,7 +94,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·chillylight",
-        href: "http://www.jianshu.com/u/96b1207a59be"
+        title: "Yes Or Not",
+        href: "https://yesornot.net/"
+    },
+    {
+        title: "Signature Generator",
+        href: "https://signaturegen.ai/"
+    },
+    {
+        title: "Heic To Pdf",
+        href: "https://heictopdf.run/"
     }
 ]
